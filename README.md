@@ -1,4 +1,4 @@
-# SENAI-SYSTEMDEV-PYTHON
+# SENAI COURSE - SYSTEMS DEVELOPEMENT using Python
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 A repository created to archive all the projects and code developed during my technical course in Python for systems development at SENAI.
